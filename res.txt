@@ -1,0 +1,44 @@
+
+Main script:
+/Users/muzalevskiy/Desktop/scripts/script.txt
+Transcripts:
+/Users/muzalevskiy/Desktop/scripts/transcript_1.txt
+/Users/muzalevskiy/Desktop/scripts/transcript_2.txt
+/Users/muzalevskiy/Desktop/scripts/transcript_3.txt
+
+The top 15 key-words-the main script:
+          Main script
+key-word             
+food              221
+includ             35
+anim               31
+cultur             29
+use                29
+product            26
+mani               26
+may                24
+cook               23
+prepar             22
+price              21
+consum             19
+plant              19
+type               18
+tast               18
+The top 15 key-words-the transcripts:
+          Main script  Transcripts
+key-word                          
+food              221          229
+cook               23           93
+may                24           37
+mani               26           32
+includ             35           31
+use                29           29
+prepar             22           27
+type               18           15
+product            26           14
+cultur             29           12
+consum             19            7
+anim               31            6
+price              21            4
+plant              19            2
+tast               18            2
